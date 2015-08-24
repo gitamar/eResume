@@ -1,3 +1,3 @@
 # materialweb
-This is website for material design
-This is template to develop material website 
+This is website for material designed eResume
+This is template to develop material website eRusume stay tuned for up dates
